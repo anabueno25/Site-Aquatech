@@ -1,0 +1,25 @@
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 330px;
+    width: 240px; 
+}
+
+.form .labelB {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.label {
+    font-size: 17px;    
+    margin: auto;
+    align-items: center;
+}
+
+input {
+    border-radius: 12px;
+}
